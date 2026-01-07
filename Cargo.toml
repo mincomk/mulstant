@@ -1,5 +1,8 @@
 [package]
 name = "mulstant"
+description = "A simple multi-timer utility for recording multiple durations between events in Rust"
+license = "MIT"
+authors = ["MincoMK <mail@drchi.co.kr>"]
 version = "0.1.0"
 edition = "2024"
 
